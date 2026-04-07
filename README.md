@@ -1,6 +1,6 @@
 # FIPO: Eliciting Deep Reasoning with Future-KL Influenced Policy Optimization
 
-🏠 [Homepage](https://qwen-pilot.notion.site/fipo) | 📝 [Paper PDF](https://arxiv.org/abs/2603.19835) | 🤗 [Hugging Face](https://huggingface.co/QwenPilot) | 🤖 [ModelScope](https://modelscope.cn/models/chiyum609/FIPO_32B) | 🐱 [GitHub](https://github.com/qwenpilot/FIPO) | 📊 [SwanLab](https://swanlab.cn/@QwenPilot/FIPO?utm_source=website_qr&utm_medium=qr_scan)
+🏠 [Homepage](https://qwen-pilot.notion.site/fipo) | 📝 [Paper PDF](https://arxiv.org/abs/2603.19835) | 🤗 [Hugging Face](https://huggingface.co/QwenPilot) | 🤖 [ModelScope](https://www.modelscope.cn/models/qwenpilot/FIPO_32B) | 🐱 [GitHub](https://github.com/qwenpilot/FIPO) | 📊 [SwanLab](https://swanlab.cn/@QwenPilot/FIPO?utm_source=website_qr&utm_medium=qr_scan)
 
 **Qwen Pilot, Alibaba Group | Published on March 20, 2026**
 
